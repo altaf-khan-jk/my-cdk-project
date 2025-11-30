@@ -2,3 +2,4 @@
   "app": "npx ts-node --prefer-ts-exts ./bin/my-cdk-project.ts",
   "context": {}
 }
+
